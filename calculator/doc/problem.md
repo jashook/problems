@@ -10,12 +10,6 @@ The following problem is designed to test and build familiarity with binary tree
 Given a binary tree, which contains either a number or an operator compute the result. 
 ```
 
-Restrictions:
-
-```
-This simple calculator is run on a machine that does not have access to a multiply or divide instruction. Implement these using shifts and additions.
-```
-
 Sample input (tree is  viewed by rotating 90 degrees right):
 <pre>
   -- 9

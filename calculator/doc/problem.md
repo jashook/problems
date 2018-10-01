@@ -74,15 +74,3 @@ Equates to: 2 + 1 * 9, while
 </pre>
 
 Equates to (2 + 1) * 9
-
-### Problem Part 2:
-
-```
-Given a string which represents a simple equation, build the binary tree representation.
-```
-
-### Problem Part 3:
-
-```
-Given a binary tree, which contains either a number or an operator compute the result, and a string which represents a simple equation. Modify the tree to correct the order of operations.
-```
